@@ -1,10 +1,3 @@
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Feenaz12/Feenaz-Nargund/main/Pi7_Passport_Photo%20(1).jpeg" 
-       width="150" 
-       style="border-radius: 50%" 
-       alt="Feenaz Nargund" />
-</p>
 
 <!-- Introduction -->
 <h1 align="center">
