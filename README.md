@@ -12,9 +12,9 @@
 ## 👤 About Me  
 
 🌟 **Fresher in Data Science** with a passion for uncovering hidden patterns and translating them into actionable insights.  
-💻 Skilled in **Python**, **Pandas**, **NumPy**, **Machine Learning**, **Deep Learning**, and **NLP**.  
+💻 Skilled in **Python**, **Pandas**, **NumPy**, **Scikit-learn** and **Machine Learning**.  
 📊 Experienced in building **interactive dashboards** and **data-driven applications**.  
-🚀 Currently exploring **Advanced AI models** and **Cloud Data Platforms**.  
+🚀 Currently exploring **Advanced AI models** and **Generative AI**.  
 💬 Always up for conversations about **data wrangling**, **visual analytics**, and **real-world applications of AI**.  
 
 
