@@ -48,6 +48,11 @@ Personalized course & career recommendation engine based on student profiles.
 Analyzes historical flight data and predicts flight delays using machine learning models.  
 **Tech:** Python, Pandas, Scikit-learn, Random Forest, XGBoost, Data Analysis  
 
+### 🏥 [HealthData_IQ_Hospital_Insights_Patients_Analytics](https://github.com/Feenaz12/HealthData_IQ_Hospital_Insights_Patient_Analytics.git)
+Analyzes hospital performance and patient feedback across the U.S. using CMS data. Provides insights into hospital quality, patient experience, emergency services, and ownership types with interactive dashboards.
+
+**Tech:** Python, Pandas, NumPy,Matplotlib, Seaborn, SciPy,Data Analysis
+
 ---
 
 ## 📊 GitHub Stats  
@@ -64,10 +69,14 @@ Analyzes historical flight data and predicts flight delays using machine learnin
   <a href="mailto:feenanargund9427@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/Feenaz12/Feenaz12.git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/feenaz-nargund">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
