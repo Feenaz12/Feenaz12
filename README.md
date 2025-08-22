@@ -1,7 +1,6 @@
-
 <!-- Introduction -->
 <h1 align="center">
-  Hi , I'm Feenaz Nargund <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi, I'm Feenaz Nargund <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <p align="center">
   <em>Data Science Fresher | Turning data into stories</em>
@@ -16,7 +15,6 @@
 📊 Experienced in building **interactive dashboards** and **data-driven applications**.  
 🚀 Currently exploring **Advanced AI models** and **Generative AI**.  
 💬 Always up for conversations about **data wrangling**, **visual analytics**, and **real-world applications of AI**.  
-
 
 ---
 
@@ -38,42 +36,19 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-### 📌 Speed Adaptation Using Visual Intelligence  
-AI-powered system for **vehicle speed adaptation** using real-time image processing.  
-**Tech:** 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>  
-
----
-
-### ☕ Café Management System  
-Full-stack café ordering & billing system for smooth operations.  
-**Tech:** 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>  
-
----
+## 🚀 Projects  
 
 ### 🎯 Learning Recommendation System  
-Personalized course & career recommendation engine based on user progress.  
-**Tech:** 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>  
+Personalized course & career recommendation engine based on student profiles.  
+**GitHub:** [Link to Repo](https://github.com/Feenaz12/Learning_Recommendation_System)  
+**Tech:** Python, Pandas, Scikit-learn, TF-IDF, Machine Learning  
 
 ---
 
-### 📧 SMS/Mail Classifier  
-Classifies SMS & emails using **NLP techniques** for accurate categorization.  
-**Tech:** 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/NLP-FF4088?style=for-the-badge&logoColor=white" height="25"/>  
-
+### ✈️ Flight Delay Analysis & Prediction  
+Analyzes historical flight data and predicts flight delays using machine learning models.  
+**GitHub:** [Link to Repo](https://github.com/Feenaz12/Flight_Delay_Analysis)  
+**Tech:** Python, Pandas, Scikit-learn, Random Forest, XGBoost, Data Analysis  
 
 ---
 
@@ -104,5 +79,3 @@ Classifies SMS & emails using **NLP techniques** for accurate categorization.
   <em style="font-size:16px;">Feel free to connect, collaborate, or just say hi.<br>
   Your feedback and messages are always welcome! 🚀</em>
 </p>
-
-
