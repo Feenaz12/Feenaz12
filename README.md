@@ -38,16 +38,14 @@
 
 ## 🚀 Projects  
 
-### 🎯 Learning Recommendation System  
+### 🎯 [Learning_Recommendation_System](https://github.com/Feenaz12/Learning_Recommendation_System)  
 Personalized course & career recommendation engine based on student profiles.  
-**GitHub:** [Link to Repo](https://github.com/Feenaz12/Learning_Recommendation_System)  
 **Tech:** Python, Pandas, Scikit-learn, TF-IDF, Machine Learning  
 
 ---
 
-### ✈️ Flight Delay Analysis & Prediction  
+### ✈️ [Flight_Delay_Analysis](https://github.com/Feenaz12/Flight_Delay_Analysis)  
 Analyzes historical flight data and predicts flight delays using machine learning models.  
-**GitHub:** [Link to Repo](https://github.com/Feenaz12/Flight_Delay_Analysis)  
 **Tech:** Python, Pandas, Scikit-learn, Random Forest, XGBoost, Data Analysis  
 
 ---
